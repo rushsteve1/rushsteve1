@@ -1,6 +1,6 @@
 ### Hey, I'm Steven
 
-I'm a Computer Science student, FOSS fan, programming polyglot, and whatever else.
+I'm a FOSS fan, programming polyglot, and whatever else.
 
 Most of my personal code is on GitLab: https://gitlab.com/rushsteve1
 
