@@ -2,7 +2,7 @@
 
 I'm a FOSS fan, programming polyglot, and whatever else.
 
-Most of my personal code is on GitLab: https://gitlab.com/rushsteve1
+Most of my personal code is in my Fossil repo: https://repo.rushsteve1.us
 
 Aside from that check out my website: https://rushsteve1.us
 
